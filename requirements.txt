@@ -1,0 +1,11 @@
+ipykernel
+requests
+xmltodict == 0.13.0
+beautifulsoup4 == 4.11.1
+pandas == 1.4.2
+numpy == 1.22.4
+sec-edgar-downloader == 4.3.0
+bokeh
+jupyter_bokeh == 3.0.4
+matplotlib == 3.5.2
+yfinance == 0.1.70
