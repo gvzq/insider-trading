@@ -1,6 +1,7 @@
 # Project Files
 sec-edgar-filings
 .DS_Store
+node_modules
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

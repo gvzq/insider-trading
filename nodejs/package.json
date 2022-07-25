@@ -1,0 +1,30 @@
+{
+  "name": "insider-trading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvzq/insider-trading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gvzq/insider-trading/issues"
+  },
+  "homepage": "https://github.com/gvzq/insider-trading#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "fast-xml-parser": "^4.0.9",
+    "got": "^12.1.0",
+    "html-dom-parser": "^3.0.1",
+    "mongoose": "^6.4.6",
+    "node-fetch": "^3.2.9",
+    "node-html-parser": "^5.3.3",
+    "xml-js": "^1.6.11"
+  },
+  "type": "module"
+}
